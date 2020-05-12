@@ -1,0 +1,30 @@
+{
+  "name": "semver",
+  "version": "0.0.0-development",
+  "description": "An example semantically released project",
+  "main": " ",
+  "scripts": {
+    "test": "echo 'add some tests here'",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fourkitchens/semver.git"
+  },
+  "keywords": [
+    "semver"
+  ],
+  "author": "Christopher Martin",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/commit-analyzer": "^8.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.0.5",
+    "@semantic-release/release-notes-generator": "^9.0.1",
+    "husky": "^4.2.5",
+    "semantic-release": "^17.0.7"
+  }
+}
