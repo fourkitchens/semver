@@ -35,4 +35,4 @@ Troubleshooting
 ---------------
 
   1. Your branch must have a named stable release branch.  See release.config.js
-
+  2. Use the semantic-release/github not the semantic-release/git package.
