@@ -1,3 +1,11 @@
+# [1.0.0-alpha.3](https://github.com/fourkitchens/semver/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2020-05-12)
+
+
+### Bug Fixes
+
+* **tags:** update tag format to be in quotes ([1b7a07b](https://github.com/fourkitchens/semver/commit/1b7a07ba7d51e1caac7eeb3b0823e64142296c84))
+* **tags:** update tag formatter to use single quotes ([facdf30](https://github.com/fourkitchens/semver/commit/facdf30577a4c3b8999670089a68278595c9e678))
+
 # [1.0.0-alpha.2](https://github.com/fourkitchens/semver/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2020-05-12)
 
 
