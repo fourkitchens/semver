@@ -18,7 +18,7 @@ jobs:
       - checkout
       - node/with-cache:
           steps:
-            - run: npm run semantic-release
+            - run: npm run semantic-release -t ${version}
 workflows:
   build-and-test:
     jobs:
