@@ -1,3 +1,10 @@
+# [1.0.0-alpha.4](https://github.com/fourkitchens/semver/compare/v1.0.0-alpha.3...1.0.0-alpha.4) (2020-05-12)
+
+
+### Bug Fixes
+
+* **tags:** update npm script semantic-release to use tag formatter ([e3d4d98](https://github.com/fourkitchens/semver/commit/e3d4d984e45dc18e147f245b1d4be4d4dac24519))
+
 # [1.0.0-alpha.3](https://github.com/fourkitchens/semver/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2020-05-12)
 
 
