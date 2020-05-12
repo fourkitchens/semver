@@ -5,7 +5,7 @@
   "main": " ",
   "scripts": {
     "test": "echo 'add some tests here'",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release --tag-format '${version}'"
   },
   "repository": {
     "type": "git",
